@@ -18,3 +18,6 @@
 - Pandas
 - Lessons 
 - 14, Data Workflows and Automation, Data Integration and Visualization, Syntax Errors, Debugging lesson, open-ended, hands-on assignment
+
+# Evan's Google Doc
+- [Here](https://docs.google.com/document/d/1Rlf8tVHKGOAdHjos-qxMEWXfwXVeLlKtoRcmBcgiq_8/edit) is a link to Evan's Google Doc.
